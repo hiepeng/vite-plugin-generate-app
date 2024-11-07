@@ -29,5 +29,13 @@
     "peerDependencies": {
         "rollup": "^4.24.4",
         "vite": "^5.4.10"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hiepeng/vite-plugin-generate-app.git"
+    },
+    "bugs": {
+        "url": "https://github.com/hiepeng/vite-plugin-generate-app/issues"
+    },
+    "homepage": "https://github.com/hiepeng/vite-plugin-generate-app#readme"
 }
