@@ -1,5 +1,5 @@
 # vite-plugin-generate-app
-Package your program into an app.js file and use your website on another website.
+Package your program into an app.js file and use your website on another website. bring your website into the DOM using app.js instead of `index.html`
 
 
 ## Why?
