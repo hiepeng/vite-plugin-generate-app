@@ -1,6 +1,6 @@
 {
     "name": "vite-plugin-generate-app",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A Vite plugin to generate an app.js file with paths to all build files",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
